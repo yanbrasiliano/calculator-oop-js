@@ -1,4 +1,4 @@
-# Calculator
+# Calculator ES6 OOP
 
 A simple project implementing a calculator using CSS Grid, Flexbox, and Object-Oriented JavaScript ES6.
 
